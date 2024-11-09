@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "Bo.png"
   name             : "Bo Shao"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "<em>Put your head down and fight! <br> Never, ever, ever give up!</em>"
-  location         : [Madison, WI, U.S.](https://www.visitmadison.com)
-  employer         : "[University of Wisconsin-Madison](https://www.wisc.edu)"
+  location         : "<a href='https://www.visitmadison.com/'>Madison, WI, U.S.</a>"
+  employer         : "<a href='https://www.wisc.edu'>University of Wisconsin-Madison</a>"
   uri              : # URL
   email            : "bo.shao@wisc.edu" 
 
