@@ -4,10 +4,8 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
-  - title: "Home"
-    url: /home/    
-
+main: 
+  
   - title: "Research"
     url: /research/ 
 
