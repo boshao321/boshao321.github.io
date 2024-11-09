@@ -15,15 +15,10 @@ main:
   - title: "Honors"
     url: /honors/    
     
-  - title: "Hobbies"
-    url: /hobbies/
+  - title: "Personal"
+    url: /personal/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+
 
