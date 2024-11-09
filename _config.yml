@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bo's personal website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bo Shao"
+description              : &description "Welcome to Bo's planet!"
+url                      : https://boshao321.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "boshao321/boshao321.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ author:
   avatar           : "Bo.png"
   name             : "Bo Shao"
   pronouns         : "he/him"  
-  bio              : "Put head down and fight. <br> Never, ever, ever give up!"
-  location         : "Madison, WI, U.S.(https://www.visitmadison.com/)"
-  employer         : "University of Wisconsin-Madison(https://www.wisc.edu)"
+  bio              : "<em>Put your head down and fight. <br> Never, ever, ever give up!</em>"
+  location         : "[Madison, WI, U.S.](https://www.visitmadison.com/)"
+  employer         : "[University of Wisconsin-Madison](https://www.wisc.edu)"
   uri              : # URL
   email            : "bo.shao@wisc.edu" 
 
