@@ -2,7 +2,7 @@
 title: "Publications"
 collection: publications
 category: manuscripts
-permalink: /publication/publications
+permalink: /publication/Publications (Chinese)
 ---
 <br>
 
