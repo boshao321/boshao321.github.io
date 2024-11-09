@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bo's personal website"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Bo Shao"
-description              : &description "Put head down and fight. Never, ever, ever give up. Things will work out just fine."
-url                      : https://boshao321.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,9 +24,9 @@ author:
   avatar           : "Bo.png"
   name             : "Bo Shao"
   pronouns         : "he/him"  
-  bio              : "Put head down and fight. Never, ever, ever give up. Things will work out just fine."
-  location         : "Madison, WI, U.S."
-  employer         : "University of Wisconsin - Madison"
+  bio              : "Put head down and fight. <br> Never, ever, ever give up!"
+  location         : "Madison, WI, U.S.(https://www.visitmadison.com/)"
+  employer         : "University of Wisconsin-Madison(https://www.wisc.edu)"
   uri              : # URL
   email            : "bo.shao@wisc.edu" 
 
