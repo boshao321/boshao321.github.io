@@ -25,7 +25,7 @@ author:
   name             : "Bo Shao"
   pronouns         : # "he/him"  
   bio              : "<em>Put your head down and fight! <br> Never, ever, ever give up!</em>"
-  location         : "Madison, WI, U.S."
+  location         : "Madison, WI, USA"
   employer         : "University of Wisconsin - Madison"
   uri              : # URL
   email            : "bo.shao@wisc.edu" 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/boshao321/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
