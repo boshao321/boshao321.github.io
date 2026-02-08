@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bo Shao | NC State University"
+title                    : "Bo Shao"
 title_separator          : "-"
 name                     : &name "Bo Shao"
 description              : &description "Ph.D. Student in Industrial and Systems Engineering at NC State University."
@@ -24,8 +24,8 @@ repository               : "boshao321/boshao321.github.io"
 author:
   avatar           : "profile.png" # 请确保 images/ 文件夹下有这张图
   name             : "Bo Shao"
-  pronouns         : "He/Him"
-  bio              : "Ph.D. Student in ISE @ NCSU."
+  pronouns         : # "He/Him"
+  bio              : "Ph.D. Student in NC State ISE"
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
   uri              : "https://boshao321.github.io"
