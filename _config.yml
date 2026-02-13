@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png" # 请确保 images/ 文件夹下有这张图
   name             : "Bo Shao"
   pronouns         : #"He/Him"
-  bio              : "Ph.D. Student in NC State ISE"
+  bio              : "Ph.D. Student @ NC State ISE"
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
   uri              : "https://boshao321.github.io"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/boshao321"
+  linkedin         : "www.linkedin.com/in/boshao321"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
