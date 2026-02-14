@@ -4,6 +4,9 @@ title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
+
+I love outdoor hiking because being close to nature brings me a sense of inner peace, and I also enjoy the satisfaction of tasting my own culinary creations in the kitchen.
+
 ## Hiking & Running
 
 Hiking and running are two activities that refresh my mind and energize my body. Hiking allows me to connect with nature, bringing me peace and clarity, while running challenges me to push my limits and build resilience. Each trail and track feels like a journey of self-discovery and accomplishment.
