@@ -21,7 +21,7 @@ main:
 #    url: /portfolio/
 
   - title: "Personal"
-    url: /Personal/
+    url: /personal/
     
   - title: "Blog Posts"
     url: /year-archive/
