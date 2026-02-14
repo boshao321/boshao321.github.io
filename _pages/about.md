@@ -7,22 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
-
 Welcome to my personal homepage! I am a Ph.D. student in the [Edward P. Fitts Department of Industrial and Systems Engineering](https://www.ise.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/). I am truly honored to be recognized as an [Edward P. Fitts Graduate Fellow](https://ise.ncsu.edu/alumni/fitts-scholars-and-fellows/#fellows).
 
 My research interests lie at the intersection of **Data-Driven Modeling**, **Operations Research**, and **Optimization**. I am particularly focused on developing individualized forecasting frameworks to enhance proactive fulfillment in logistics and supply chain systems.
 
-</div>
-
 ---
-
-</div>
 
 Biography
 ======
-
-<div style="text-align: justify;">
 
 I was born in [Wuwei](https://en.wikipedia.org/wiki/Wuwei,_Gansu), a small city in Gansu Province, Northwestern China, known for its historical significance as an important city on the ancient [Silk Road](https://en.wikipedia.org/wiki/Silk_Road). I earned my Bachelor’s degree in Logistics Engineering from [Fuzhou University](https://www.fzu.edu.cn/), where I met teachers and friends who had a significant impact on my life. 
 
@@ -30,9 +22,11 @@ Before joining NC State, I completed my Master’s degree in [Industrial & Syste
 
 Growing up as the only child in my family, I learned to be independent and make my own decisions from an early age. I enjoy trying new things and constantly seek opportunities to challenge myself and grow, whether in academic research or personal life. Beyond my academic pursuits, I hold a [Lean Six Sigma Green Belt Certification](/files/Six_Sigma_Green_Belt_Bo_Shao.pdf). I love outdoor hiking because being close to nature brings me a sense of inner peace, and I also enjoy the satisfaction of tasting my own culinary creations in the kitchen. 
 
-</div>
+---
 
-**Curriculum Vitae:** [Download my CV here](/files/CV_Bo_Shao.pdf)
+Curriculum Vitae
+======
+[Download my CV here](/files/CV_Bo_Shao.pdf)
 
 ---
 
