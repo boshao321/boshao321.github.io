@@ -43,6 +43,18 @@ Education
 
 ---
 
+Honors & Awards
+======
+* **Edward P. Fitts Graduate Fellowship**, NC State University, 2025
+* **Summa Cum Laude Graduate** (Top 5%), Fuzhou University, 2021
+* **Sci-Tech Innovation Individual Scholarship** (Top 3%), Fuzhou University, 2021
+* **First Prize Scholarship in Major** (Top 5%), Fuzhou University, 2020
+* **SUNSHINE Individual Scholarship** (Top 3%), Fuzhou University, 2020
+* **Second Prize**, National Contest On Logistics Design (NCOLD), 2019
+* **Second Prize**, Global Management Challenge (GMC) China Competition, 2019
+
+---
+
 Contact Information
 ======
 * **Address:** 4333 Fitts-Woolard Hall, Raleigh, NC 27606
