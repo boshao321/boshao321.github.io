@@ -9,9 +9,13 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-Welcome to my personal homepage! I am a first-year Ph.D. student in the [Edward P. Fitts Department of Industrial and Systems Engineering](https://www.ise.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/) [cite: 2026-01-30]. I am truly honored to be recognized as an [Edward P. Fitts Graduate Fellow](https://ise.ncsu.edu/alumni/fitts-scholars-and-fellows/#fellows) [cite: 2026-02-13]. Currently, I am advised by [Dr. Leila Hajibabai](https://scholar.google.com/citations?user=n6M6x-sAAAAJ&hl=en) [cite: 2026-01-30].
+Welcome to my personal homepage! I am a Ph.D. student in the [Edward P. Fitts Department of Industrial and Systems Engineering](https://www.ise.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/). I am truly honored to be recognized as an [Edward P. Fitts Graduate Fellow](https://ise.ncsu.edu/alumni/fitts-scholars-and-fellows/#fellows).
 
-My research interests lie at the intersection of **Data-Driven Modeling**, **Operations Research**, and **Optimization**. I am particularly focused on developing individualized forecasting frameworks to enhance proactive fulfillment in logistics and supply chain systems [cite: 2026-02-13].
+My research interests lie at the intersection of **Data-Driven Modeling**, **Operations Research**, and **Optimization**. I am particularly focused on developing individualized forecasting frameworks to enhance proactive fulfillment in logistics and supply chain systems.
+
+</div>
+
+---
 
 </div>
 
@@ -28,18 +32,20 @@ Growing up as the only child in my family, I learned to be independent and make 
 
 </div>
 
+**Curriculum Vitae:** [Download my CV here](/files/CV_Bo_Shao.pdf)
+
 ---
 
 Research Interests
 ======
-* **Methodological Areas:** Data-Driven Modeling, Operations Research, System Analytics and Optimization [cite: 2026-02-13].
-* **Application Areas:** Logistics Networks, Production and Operations Systems, and Supply Chain Management [cite: 2026-02-13].
+* **Methodological Areas:** Data-Driven Modeling, Operations Research, System Analytics and Optimization.
+* **Application Areas:** Logistics Networks, Production and Operations Systems, and Supply Chain Management.
 
 ---
 
 Education
 ======
-* **Ph.D. in Industrial Engineering**, [North Carolina State University](https://www.ncsu.edu/), 2025 – Present [cite: 2026-01-30]
+* **Ph.D. in Industrial Engineering**, [North Carolina State University](https://www.ncsu.edu/), 2025 – Present
 * **M.S. in Industrial Engineering**, [University of Wisconsin-Madison](https://www.wisc.edu/), 2023 – 2025
 * **B.E. in Logistics Engineering**, [Fuzhou University](https://www.fzu.edu.cn/), 2017 – 2021
 
@@ -47,5 +53,5 @@ Education
 
 Contact Information
 ======
-* **Address:** 4333 Fitts-Woolard Hall, Raleigh, NC 27606 [cite: 2026-01-30]
-* **Email:** [bshao3@ncsu.edu](mailto:bshao3@ncsu.edu) [cite: 2026-01-30]
+* **Address:** 4333 Fitts-Woolard Hall, Raleigh, NC 27606
+* **Email:** [bshao3@ncsu.edu](mailto:bshao3@ncsu.edu)
