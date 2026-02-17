@@ -15,7 +15,7 @@ author_profile: true
 
 * Xiaoli Su, **Bo Shao**, Chenghu Yang & Xin Ma. A Data-Driven Distributionally Robust Optimization Approach for Risk-Averse Newsvendor Problem with Demand Censoring. *Annals of Operations Research*. (Under review).
 
-* **Bo Shao**, Xiaoli Su, Xin Li & Xingxuan Zhuo. (2025). [Mixed-Frequency Data-Driven Forecasting Port Throughput: A Novel Attention-DeepAR-MIDAS Model](https://www.inderscienceonline.com/doi/abs/10.1504/IJSTL.2025.147408). *International Journal of Shipping and Transport Logistics*, 20(3), 338-358. [[PDF]]([/files/2024_IJSTL-167692.pdf](https://www.researchgate.net/publication/382871813_Mixed-frequency_data-driven_forecasting_port_throughput_A_novel_attention-DeepAR-MIDAS_model))
+* **Bo Shao**, Xiaoli Su, Xin Li & Xingxuan Zhuo. (2025). [Mixed-Frequency Data-Driven Forecasting Port Throughput: A Novel Attention-DeepAR-MIDAS Model](https://www.inderscienceonline.com/doi/abs/10.1504/IJSTL.2025.147408). *International Journal of Shipping and Transport Logistics*, 20(3), 338-358. [[PDF]](https://www.researchgate.net/publication/382871813_Mixed-frequency_data-driven_forecasting_port_throughput_A_novel_attention-DeepAR-MIDAS_model)
 
 * Xiaoli Su, Lijun Zeng, **Bo Shao** & Binlong Lin. (2025). [Data-Driven Optimization for Production Planning with Multiple Demand Features](https://doi.org/10.1108/K-04-2023-0690). *Kybernetes*, 54(1), 110-133. [[PDF]](https://www.researchgate.net/publication/374662158_Data-driven_optimization_for_production_planning_with_multiple_demand_features)
 
