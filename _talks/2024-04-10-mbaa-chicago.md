@@ -13,3 +13,7 @@ Today, I had the incredible experience of presenting at the OMEA/MBAA 2024 confe
 Presenting in front of an international audience was challenging but rewarding. I realize there’s still much room for improvement, and I need to keep pushing myself to grow and gain confidence in these settings. 
 
 Looking forward to many more opportunities like this, and here’s to continuous self-improvement!
+
+---
+
+![Chicago Conference 1](/images/5569.jpg)
