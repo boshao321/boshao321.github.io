@@ -16,4 +16,4 @@ Looking forward to many more opportunities like this, and here’s to continuous
 
 ---
 
-![Chicago Conference 1](/images/5569.jpg)
+![Chicago Conference 1](/images/832E2E4A-DEBE-4168-ACD9-E58C17ED6C58_1_105_c.jpeg)
