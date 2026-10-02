@@ -24,7 +24,7 @@ Growing up as the only child in my family, I learned to be independent and make 
 
 Curriculum Vitae
 ======
-[Download my CV here](/files/CV_Bo_Shao.pdf)
+[Download my CV here](https://github.com/boshao321/CV/releases/download/cv-latest/CV_Bo_Shao.pdf)
 
 ---
 
