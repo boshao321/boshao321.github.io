@@ -38,20 +38,27 @@ Research Interests
 Education
 ======
 * **Ph.D. in Industrial Engineering**, [North Carolina State University](https://www.ncsu.edu/), 2025 – Present
+  * Master of Operations Research (En Route)
 * **M.S. in Industrial Engineering**, [University of Wisconsin-Madison](https://www.wisc.edu/), 2023 – 2025
 * **B.E. in Logistics Engineering**, [Fuzhou University](https://www.fzu.edu.cn/), 2017 – 2021
 
 ---
 
+Service & Leadership
+======
+* **President**, [INFORMS Student Chapter](https://www.informs.org/Community/Student-Chapters), North Carolina State University, Aug. 2026 – Present
+
+---
+
 Honors & Awards
 ======
+* **Edward P. Fitts Graduate Fellowship**, NC State University, 2026
 * **Edward P. Fitts Graduate Fellowship**, NC State University, 2025
 * **Summa Cum Laude Graduate** (Top 5%), Fuzhou University, 2021
 * **Sci-Tech Innovation Individual Scholarship** (Top 3%), Fuzhou University, 2021
-* **First Prize Scholarship in Major** (Top 5%), Fuzhou University, 2020
+* **Academic Merit Scholarship, First Tier** (Top 5%), Fuzhou University, 2020
 * **SUNSHINE Individual Scholarship** (Top 3%), Fuzhou University, 2020
-* **Second Prize**, National Contest On Logistics Design (NCOLD), 2019
-* **Second Prize**, Global Management Challenge (GMC) China Competition, 2019
+* **Second Prize**, National Contest on Logistics Design (NCOLD), 2019
 
 ---
 

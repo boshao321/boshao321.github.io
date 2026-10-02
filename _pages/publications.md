@@ -13,7 +13,7 @@ author_profile: true
 
 ## Publications (English)
 
-* Xiaoli Su, **Bo Shao**, Chenghu Yang & Xin Ma. A Data-Driven Distributionally Robust Optimization Approach for Risk-Averse Newsvendor Problem with Demand Censoring. *Annals of Operations Research*. (Under review).
+* **Bo Shao** & Ling Zhang. (2026). [Beyond Prediction: AI Agents in the Next Era of Environmental Early Warning](https://doi.org/10.1093/inteam/vjag077). *Integrated Environmental Assessment and Management*, 22(4), 1338-1340. [[PDF]](/files/2026_IEAM_Beyond_Prediction_Shao.pdf)
 
 * **Bo Shao**, Xiaoli Su, Xin Li & Xingxuan Zhuo. (2025). [Mixed-Frequency Data-Driven Forecasting Port Throughput: A Novel Attention-DeepAR-MIDAS Model](https://www.inderscienceonline.com/doi/abs/10.1504/IJSTL.2025.147408). *International Journal of Shipping and Transport Logistics*, 20(3), 338-358. [[PDF]](https://www.researchgate.net/publication/382871813_Mixed-frequency_data-driven_forecasting_port_throughput_A_novel_attention-DeepAR-MIDAS_model)
 
@@ -21,7 +21,7 @@ author_profile: true
 
 * Xin Li, Yongshi Hu, Xiaoli Su & **Bo Shao**. (2023). [A Data-Driven Newsvendor Problem with Shifting Demand: A Deep Autoregressive Model with Attention Mechanism](https://doi.org/10.25103/jestr.163.10). *Journal of Engineering Science & Technology Review*, 16(3), 74-83. [[PDF]](https://doi.org/10.25103/jestr.163.10)
 
-* Jianping Zheng & **Bo Shao**. (2022). [Throughput Properties and Clustering Analysis of Coastal Ports in China: An Analysis Method by Time Series Complex Network](https://doi.org/10.6036/10537). *DYNA*, 97(4), 398-405. [[PDF]](https://www.researchgate.net/publication/361719434_THROUGHPUT_PROPERTIES_AND_CLUSTERING_ANALYSIS_OF_COASTAL_PORTS_IN_MAINLAND_CHINA_AN_ANALYSIS_METHOD_BY_TIME_SERIES_COMPLEX_NETWORK)
+* Jianping Zheng & **Bo Shao**. (2022). [Throughput Properties and Clustering Analysis of Coastal Ports in Mainland China: An Analysis Method by Time Series Complex Network](https://doi.org/10.6036/10537). *DYNA-Ingeniería e Industria*, 97(4), 398-405. [[PDF]](https://www.researchgate.net/publication/361719434_THROUGHPUT_PROPERTIES_AND_CLUSTERING_ANALYSIS_OF_COASTAL_PORTS_IN_MAINLAND_CHINA_AN_ANALYSIS_METHOD_BY_TIME_SERIES_COMPLEX_NETWORK)
 
 ---
 
