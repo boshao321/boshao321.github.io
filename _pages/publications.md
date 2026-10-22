@@ -13,6 +13,10 @@ author_profile: true
 
 ## Publications (English)
 
+* Chong Ye, Jingying Wang, **Bo Shao**, Wenting Cao & Shijun Chen. (2026). [The Evolving Global Electric Vehicle Trade Ecosystem: Network Structure and Trade Network Resilience](https://doi.org/10.3390/wevj17100544). *World Electric Vehicle Journal*, 17(10), 544. [[PDF]](https://doi.org/10.3390/wevj17100544)
+
+* Xinnan Yang, **Bo Shao**, Tianchong Chen, Hongyue Tian & Chong Ye. (2026). [Balancing Speed and Quality: Dynamic Multitask Contracting in Demand-Responsive Manufacturing Supply Chains](https://doi.org/10.25103/jestr.194.13). *Journal of Engineering Science & Technology Review*, 19(4), 119-129. [[PDF]](https://doi.org/10.25103/jestr.194.13)
+
 * **Bo Shao** & Ling Zhang. (2026). [Beyond Prediction: AI Agents in the Next Era of Environmental Early Warning](https://doi.org/10.1093/inteam/vjag077). *Integrated Environmental Assessment and Management*, 22(4), 1338-1340. [[PDF]](/files/2026_IEAM_Beyond_Prediction_Shao.pdf)
 
 * **Bo Shao**, Xiaoli Su, Xin Li & Xingxuan Zhuo. (2025). [Mixed-Frequency Data-Driven Forecasting Port Throughput: A Novel Attention-DeepAR-MIDAS Model](https://www.inderscienceonline.com/doi/abs/10.1504/IJSTL.2025.147408). *International Journal of Shipping and Transport Logistics*, 20(3), 338-358. [[PDF]](https://www.researchgate.net/publication/382871813_Mixed-frequency_data-driven_forecasting_port_throughput_A_novel_attention-DeepAR-MIDAS_model)
