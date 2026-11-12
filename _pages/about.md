@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! I am a Ph.D. student in the [Edward P. Fitts Department of Industrial and Systems Engineering](https://www.ise.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/). I am truly honored to be recognized as an [Edward P. Fitts Graduate Fellow](https://ise.ncsu.edu/alumni/fitts-scholars-and-fellows/#fellows).
+Welcome to my personal homepage! I am a Ph.D. student in the [Edward P. Fitts Department of Industrial and Systems Engineering](https://www.ise.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/). I am truly honored to be recognized as an [Edward P. Fitts Graduate Fellow](https://ise.ncsu.edu/alumni/scholarships/fitts-scholars-fellows/).
 
 My research interests lie at the intersection of **Data-Driven Modeling**, **Operations Research**, and **Optimization**. I am particularly focused on developing individualized forecasting frameworks to enhance proactive fulfillment in logistics and supply chain systems.
 
