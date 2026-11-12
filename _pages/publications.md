@@ -13,6 +13,10 @@ author_profile: true
 
 ## Publications (English)
 
+* **Bo Shao**, Lingrong Gu, Yinan Shao, Yue Song & Tianchong Chen. (2026). [Digital Transformation and Manufacturing Servitization under Commoditization](https://doi.org/10.52152/D11709). *DYNA-Ingeniería e Industria*, 101(6), 607-613. [[PDF]](https://doi.org/10.52152/D11709)
+
+* Lingrong Gu, **Bo Shao** & Juanjuan Wu. (2026). [When Prediction Is Not Enough: Why Environmental Decision Making Still Needs Models](https://doi.org/10.1093/inteam/vjag143). *Integrated Environmental Assessment and Management*, 22(6), 2099-2100. [[PDF]](https://doi.org/10.1093/inteam/vjag143)
+
 * Chong Ye, Jingying Wang, **Bo Shao**, Wenting Cao & Shijun Chen. (2026). [The Evolving Global Electric Vehicle Trade Ecosystem: Network Structure and Trade Network Resilience](https://doi.org/10.3390/wevj17100544). *World Electric Vehicle Journal*, 17(10), 544. [[PDF]](https://doi.org/10.3390/wevj17100544)
 
 * Xinnan Yang, **Bo Shao**, Tianchong Chen, Hongyue Tian & Chong Ye. (2026). [Balancing Speed and Quality: Dynamic Multitask Contracting in Demand-Responsive Manufacturing Supply Chains](https://doi.org/10.25103/jestr.194.13). *Journal of Engineering Science & Technology Review*, 19(4), 119-129. [[PDF]](https://doi.org/10.25103/jestr.194.13)

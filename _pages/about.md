@@ -39,6 +39,7 @@ Education
 ======
 * **Ph.D. in Industrial Engineering**, [North Carolina State University](https://www.ncsu.edu/), 2025 – Present
   * Master of Operations Research (En Route)
+  * Coursework: Computer Vision, Generative and Agentic AI, Neural Networks and Deep Learning, Optimization for Machine Learning, Fundamentals of Additive Manufacturing
 * **M.S. in Industrial Engineering**, [University of Wisconsin-Madison](https://www.wisc.edu/), 2023 – 2025
 * **B.E. in Logistics Engineering**, [Fuzhou University](https://www.fzu.edu.cn/), 2017 – 2021
 
@@ -47,6 +48,13 @@ Education
 Service & Leadership
 ======
 * **President**, [INFORMS Student Chapter](https://www.informs.org/Community/Student-Chapters), North Carolina State University, Aug. 2026 – Present
+
+---
+
+Professional Memberships
+======
+* [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/)
+* [Institute for Operations Research and the Management Sciences (INFORMS)](https://www.informs.org/)
 
 ---
 
