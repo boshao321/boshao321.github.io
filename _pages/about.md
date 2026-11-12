@@ -60,8 +60,8 @@ Professional Memberships
 
 Honors & Awards
 ======
-* **Edward P. Fitts Graduate Fellowship**, NC State University, 2026
-* **Edward P. Fitts Graduate Fellowship**, NC State University, 2025
+* **[Edward P. Fitts Graduate Fellowship](https://ise.ncsu.edu/alumni/scholarships/fitts-scholars-fellows/)**, NC State University, 2026
+* **[Edward P. Fitts Graduate Fellowship](https://ise.ncsu.edu/alumni/scholarships/fitts-scholars-fellows/)**, NC State University, 2025
 * **Summa Cum Laude Graduate** (Top 5%), Fuzhou University, 2021
 * **Sci-Tech Innovation Individual Scholarship** (Top 3%), Fuzhou University, 2021
 * **Academic Merit Scholarship, First Tier** (Top 5%), Fuzhou University, 2020
