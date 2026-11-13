@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my personal homepage! I am a Ph.D. student in the [Edward P. Fitts Department of Industrial and Systems Engineering](https://www.ise.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/). I am truly honored to be recognized as an [Edward P. Fitts Graduate Fellow](https://ise.ncsu.edu/alumni/scholarships/fitts-scholars-fellows/).
 
-My research interests lie at the intersection of **Data-Driven Modeling**, **Operations Research**, and **Optimization**. I am particularly focused on developing individualized forecasting frameworks to enhance proactive fulfillment in logistics and supply chain systems.
+My research interests lie at the intersection of **Operations Research**, **Optimization**, and **Artificial Intelligence**, with applications in logistics and supply chain systems.
 
 ---
 
@@ -30,7 +30,7 @@ Curriculum Vitae
 
 Research Interests
 ======
-* **Methodological Areas:** Data-Driven Modeling, Operations Research, System Analytics and Optimization.
+* **Methodological Areas:** Operations Research, Optimization, Data-Driven Modeling, Machine Learning and Deep Learning, Large Language Models (LLMs) and Agentic AI.
 * **Application Areas:** Logistics Networks, Production and Operations Systems, and Supply Chain Management.
 
 ---
@@ -39,7 +39,6 @@ Education
 ======
 * **Ph.D. in Industrial Engineering**, [North Carolina State University](https://www.ncsu.edu/), 2025 – Present
   * Master of Operations Research (En Route)
-  * Coursework: Computer Vision, Generative and Agentic AI, Neural Networks and Deep Learning, Optimization for Machine Learning, Fundamentals of Additive Manufacturing
 * **M.S. in Industrial Engineering**, [University of Wisconsin-Madison](https://www.wisc.edu/), 2023 – 2025
 * **B.E. in Logistics Engineering**, [Fuzhou University](https://www.fzu.edu.cn/), 2017 – 2021
 
